@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework10</string>
+    <string name="title">Таймер отсчета</string>
+    <string name="start_or_stop">Старт/Стоп</string>
+</resources>

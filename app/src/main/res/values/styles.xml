@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCircularProgressIndicator" parent="Widget.Material3.CircularProgressIndicator">
+        <item name="trackThickness">4dp</item>
+        <item name="indicatorColor">@array/custom_colors</item>
+    </style>
+
+    <style name="AppTheme.SeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:progressTint">@color/dark_violet</item> <!-- Цвет прогресса SeekBar -->
+        <item name="android:thumbTint">@color/dark_red</item> <!-- Цвет "ползунка" SeekBar -->
+    </style>
+</resources>

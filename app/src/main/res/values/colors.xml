@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#FF808080</color>
+    <color name="dark_grey">#FF404040</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="dark_red">#FF800000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="dark_green">#FF008000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="dark_blue">#FF000080</color>
+    <color name="violet">#FFFF00FF</color>
+    <color name="dark_violet">#FF800080</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="dark_yellow">#FF808000</color>
+    <color name="aquamarine">#FF00FFFF</color>
+    <color name="dark_aquamarine">#FF008080</color>
+
+    <array name="custom_colors">
+        <item>#FFFF00FF</item>
+        <item>#FF800080</item>
+        <item>@android:color/holo_orange_light</item>
+    </array>
+</resources>
